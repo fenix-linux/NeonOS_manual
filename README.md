@@ -1,7 +1,7 @@
 # Neon OS
 
 <img src=pictures/logo.png><br>
-The first distro based on MX-Linux with Gnome<br>
+The first distro based on MX-Linux with Gnome<br><br>
 <img src=pictures/screenshot1-1-2021.png><br>
 
 Features: 
