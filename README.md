@@ -6,7 +6,7 @@ Distro based on MX-Linux with Gnome.<br><br>
 <h3>Features:</h3> <br>
 
 <h3>To do:</h3> <br>
-Budgie version...
+<p>Budgie version...</p>
 
 
 
